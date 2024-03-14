@@ -1,2 +1,2 @@
-rootProject.name = "ed-ryanair"
+rootProject.name = "ed-23-24-exam-marzo"
 
